@@ -1,0 +1,2 @@
+I have used git last semester, but im not confident enough to use it without guidance. I used the github desktop app so it was easier to work with my group in a previous into to app development class. However I am still new to it and didnt continue using it during summer break. I do wish to become better at git and github because I know its powerful. 
+Change from new_branch
