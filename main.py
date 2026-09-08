@@ -1,4 +1,4 @@
-# CMPS 3350 - Lab 2 is all about source control
+# CMPS 3350 - Lab 2 is all about source control AND git
 # Prints each command-line argument passed into the program, one per line
 from sys import argv
 
